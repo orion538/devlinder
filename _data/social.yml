@@ -1,13 +1,13 @@
 # Icons on the footer
 rss: true        
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: info@bedandbreakfastdevlinder.com    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: https://www.facebook.com/pages/Bed-and-Breakfast-De-Vlinder/259528920840747
 flickr:
 gitlab:
-github: "sylhare"
+github:
 instagram:
 keybase:
 linkedin:         # Full URL
