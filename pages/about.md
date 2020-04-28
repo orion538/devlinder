@@ -6,8 +6,6 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [Contact, Archive]
 ---
 
-Contact information
-
 Address
 B&B de Vlinder
 Henja Bakkenes
