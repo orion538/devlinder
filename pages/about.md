@@ -6,17 +6,17 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [Contact, Archive]
 ---
 
-Address
-B&B de Vlinder
-Henja Bakkenes
-Parallelweg 4
-7772 SB Hardenberg
-The Netherlands
+# Address
+B&B de Vlinder<br />
+Henja Bakkenes<br />
+Parallelweg 4<br />
+7772 SB Hardenberg<br />
+The Netherlands<br />
 
-Telefoonnummer: +31 (0)523-677200 (voorkeur)
-Mobiel: +31 (0)6-57532268
-info@bedandbreakfastdevlinder.com
-Wij staan vermeld op:
+Telefoonnummer: +31 (0)523-677200 (voorkeur)<br />
+Mobiel: +31 (0)6-57532268<br />
+info@bedandbreakfastdevlinder.com<br />
+Wij staan vermeld op:<br />
 - Vechtdal Overijssel
 - bedandbreakfast.eu
 - vacationassist.co.uk
@@ -25,5 +25,5 @@ Wij staan vermeld op:
 - vooi.eu
 - nederlandsevakanties.nl
 
-Gebruikt u de Tomtom om ons te vinden gebruik dan onze postcode: 7772 SB
+Gebruikt u de Tomtom om ons te vinden gebruik dan onze postcode: 7772 SB<br />
 anders komt u op de Parallelweg in Bergentheim om de Krim uit.
