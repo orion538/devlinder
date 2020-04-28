@@ -8,16 +8,16 @@ layout: page
     <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
   </div>
 	
-	<article>
-		<section class="post-content">
-		{% if page.bootstrap %}
-		<div class="bootstrap-iso">
-		{% endif %}
-		{{ content }}
-		{% if page.bootstrap %}
-		</div>
-		{% endif %}
-		</section>
-	</article>
+  <article>
+    <section class="post-content">
+    {% if page.bootstrap %}
+    <div class="bootstrap-iso">
+    {% endif %}
+    {{ content }}
+    {% if page.bootstrap %}
+    </div>
+    {% endif %}
+    </section>
+  </article>
 
 </div>
