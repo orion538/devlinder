@@ -15,7 +15,7 @@ The Netherlands<br />
 
 Telefoonnummer: +31 (0)523-677200 (voorkeur)<br />
 Mobiel: +31 (0)6-57532268<br />
-[info@bedandbreakfastdevlinder.com]('mailto:info@bedandbreakfastdevlinder.com')<br /><br />
+[info@bedandbreakfastdevlinder.com](mailto:info@bedandbreakfastdevlinder.com)<br /><br />
 Wij staan vermeld op:<br />
 - Vechtdal Overijssel
 - bedandbreakfast.eu
