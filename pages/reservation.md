@@ -10,10 +10,10 @@ tags: [Reservation]
 
 Reserveren is mogelijk op de volgende manieren:
 
-U kunt telefonisch contact met ons opnemen. Tel. 0523-677200.
+- U kunt telefonisch contact met ons opnemen. Tel. 0523-677200.<br />
 Zijn wij niet bereikbaar dan kunt u het antwoordapparaat inspreken en bellen wij u zo spoedig mogelijk terug.
-Mobiel: 06-57532268
-U kunt ons ook mailen. Elke dag wordt de mail gecontroleerd.
+- Mobiel: 06-57532268
+- U kunt ons ook mailen. Elke dag wordt de mail gecontroleerd.<br />
 Ons E-mailadres is: info@bedandbreakfastdevlinder.com
 
 Wij zijn het hele jaar geopend.
