@@ -20,13 +20,13 @@ Wij zijn het hele jaar geopend.
 Na overleg kunt op elk tijdstip overdag komen. Wanneer het u het beste uitkomt.
 Voor meer informatie zie ook onze contact pagina
 
-# Tarieven
+## Tarieven
 
 Aantal personen 	Prijs 	Beschrijving
 1 	€ 45,00 (daarna € 30,00) 	Per nacht.
 2 	€60,- 	Per nacht.
 
-# Langdurig verblijf
+## Langdurig verblijf
 
 Aantal personen 	Prijs 	Beschrijving
 1 	€140,- 	5 nachten. ( 1 week )
@@ -36,12 +36,12 @@ Aantal personen 	Prijs 	Beschrijving
 
 Bij deze prijs is inbegrepen:
 
-Ontbijt.
-Koffie en thee, vrij beschikbaar.
-Draadloos internet.
-Gas, elektra en water.
-Toeristenbelasting.
-Handdoeken.
-Bedlinnen.
+- Ontbijt.
+- Koffie en thee, vrij beschikbaar.
+- Draadloos internet.
+- Gas, elektra en water.
+- Toeristenbelasting.
+- Handdoeken.
+- Bedlinnen.
 
-Graag contant te betalen bij aankomst.
+**Graag contant te betalen bij aankomst.**
