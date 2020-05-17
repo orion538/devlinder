@@ -22,9 +22,10 @@ Voor meer informatie zie ook onze contact pagina
 
 ## Tarieven
 
-Aantal personen 	Prijs 	Beschrijving
-1 	€ 45,00 (daarna € 30,00) 	Per nacht.
-2 	€60,- 	Per nacht.
+| Aantal personen | Prijs | Beschrijving |
+| ----------- | ----------- | ----------- |
+| 1 | €50,- | (daarna € 30,00) 	Per nacht. |
+| 2 | €60,- | Per nacht. |
 
 ## Langdurig verblijf
 
