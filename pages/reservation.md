@@ -29,12 +29,12 @@ Aantal personen 	Prijs 	Beschrijving
 ## Langdurig verblijf
 
  	| Syntax | Description |
-| ----------- | ----------- |
-| Aantal personen | Prijs | Beschrijving |
-| 1 | €140,- | 5 nachten. ( 1 week ) |
-| 2 | €290,- | 5 nachten. ( 1 week ) |
-| 1 | €190,- | 7 nachten. ( 1 week ) |
-| 2 | €400,- | 7 nachten. ( 1 week ) |
+    | ----------- | ----------- |
+    | Aantal personen | Prijs | Beschrijving |
+    | 1 | €140,- | 5 nachten. ( 1 week ) |
+    | 2 | €290,- | 5 nachten. ( 1 week ) |
+    | 1 | €190,- | 7 nachten. ( 1 week ) |
+    | 2 | €400,- | 7 nachten. ( 1 week ) |
 
 Bij deze prijs is inbegrepen:
 - Ontbijt.
