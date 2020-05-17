@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Water
+title: Rivieren en zwembaden in de omgeving Hardenberg
 img: "assets/img/portfolio/github.png"
 date: 20-10-2017
 tags: [Lorem, Portfolio]
 ---
-
-# Rivieren en zwembaden in de omgeving Hardenberg
 
 ## De Vecht
 
