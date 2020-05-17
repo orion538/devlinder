@@ -1,12 +1,27 @@
 ---
 layout: post
-title: Github
+title: Water
 img: "assets/img/portfolio/github.png"
 date: 20-10-2017
 tags: [Lorem, Portfolio]
 ---
 
-![image]({{ page.img | relative_url }})
+# Rivieren en zwembaden in de omgeving Hardenberg
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+## De Vecht
 
+De Overijsselse Vecht stroomt langs Hardenberg.
+U kunt kano's, waterfietsen of bootjes huren in Hardenberg om de Vecht te bevaren.
+
+## De Oldemeijer
+
+In de boswachterij van StaatsBosBeheer (SBB) ligt recreatieplas de Oldemeijer, een plas midden in het bos en omgeven door een zandstrand met in het midden een eiland dat door middel van bruggen is te bereiken. Het Dagrecreatieterrein "De Oldemeijer"in de Staatsboswachterij Hardenberg biedt de mogelijkheid van zwemmen in natuurwater.
+De Oldemeyer
+
+## Zwembaden
+
+Zwemmen is verder mogelijk in Zwembad De Marsch in Hardenberg, maar ook, hoewel wat verder weg, Centerparcs De Huttenheugte in Dalen en bij heel wat campings in de gemeente Hardenberg heb je leuke zwembaden voor de kinderen.
+
+# Zwembad Huttenheugte
+
+# Zwembad Aqua Jungle
