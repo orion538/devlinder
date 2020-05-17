@@ -44,4 +44,4 @@ Bij deze prijs is inbegrepen:
 - Handdoeken.
 - Bedlinnen.
 
-**Graag __contant__ te betalen bij aankomst.**
+**Graag _contant_ te betalen bij aankomst.**
