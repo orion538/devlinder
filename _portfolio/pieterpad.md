@@ -7,7 +7,6 @@ date: 27 September 2015
 tags: [Archive, Pieterpad]
 ---
 
-# Het Pieterpad en nabije natuur
 Het Pieterpad loopt op +/- 10 minuten lopen van de Bed and Breakfast.
 U kunt vanaf ons punt prima 2 etappes van het Pieterpad lopen.
 Die van Hardenberg naar Ommen en van Hardenberg naar Coevorden.
