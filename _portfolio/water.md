@@ -22,6 +22,6 @@ De Oldemeyer
 
 Zwemmen is verder mogelijk in Zwembad De Marsch in Hardenberg, maar ook, hoewel wat verder weg, Centerparcs De Huttenheugte in Dalen en bij heel wat campings in de gemeente Hardenberg heb je leuke zwembaden voor de kinderen.
 
-# Zwembad Huttenheugte
+## Zwembad Huttenheugte
 
-# Zwembad Aqua Jungle
+## Zwembad Aqua Jungle
