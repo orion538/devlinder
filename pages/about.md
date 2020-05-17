@@ -22,7 +22,6 @@ Wij staan vermeld op:<br />
 - [vacationassist.co.uk](http://www.vacationassist.co.uk/bnb.php?pid=134000545)
 - [bed-en-breakfast.nl](http://www.pieterpad.nl/downloads/accolijst%20pp1.pdf)
 - [pieterpad.nl](http://www.pieterpad.nl/downloads/accolijst%20pp1.pdf)
-- [vooi.eu](http://vooi.eu/uhp.php?language=1&uhp=NL10977)
 - [nederlandsevakanties.nl](http://www.nederlandsevakanties.nl/)
 
 Gebruikt u de Tomtom om ons te vinden gebruik dan onze postcode: 7772 SB<br />
